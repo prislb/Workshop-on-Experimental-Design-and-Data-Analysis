@@ -37,6 +37,5 @@ In varied analyses are explained in full:
 * Linear Mixed Effecs Models
 
 <p align="center">
-  <img width="900" height="300" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.45.35.png
-">
+  <img width="900" height="300" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.45.35.png">
 </p>
