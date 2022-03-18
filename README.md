@@ -22,7 +22,7 @@ This seminar was originally taught on 2021 at The Pennsylvania State University.
 * Randomizaton
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.44.20.png">
+  <img width="600" height="300" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.44.20.png">
 </p>
 
 ## 2. In the data analsis portion of the seminar, we first start by developing a data cleaning protocol:
@@ -38,5 +38,5 @@ In varied analyses are explained in full:
 * Linear Mixed Effecs Models
 
 <p align="center">
-  <img width="900" height="300" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.45.35.png">
+  <img width="900" height="600" src="https://github.com/prislb/ExpeDesign_DataAnalysis_Seminar/blob/main/Screen%20Shot%202022-03-16%20at%2021.45.35.png">
 </p>
