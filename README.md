@@ -5,7 +5,8 @@
 
 <h1 align="center"> Experimental Design & Data Analysis Seminar </h1>
 
-In this seminar, you can learn the basics, and more, of experimental design and data analysis. The seminar is structured to serve all types of linguists as we move from the analysis of continuous data on to models that support categorical data. In addition, it provides provide extensive explanations of the foundations of data types, data cleaning and experimental design. By the end of the seminar, attendees will be able to design, implement, and analyze their own experiment within any linguistic paradigm they desire!
+This seminar serves as a guide of the basics of experimental design and data analysis. It is structured to serve all types of linguists as we move 
+from the analysis of categorical data on to models that support continuous data. By the end of the seminar, you will be able to design, implement, and analyze your own experiment within any linguistic paradigm.
 
 This seminar was originally taught on 2021 at The Pennsylvania State University.
 
